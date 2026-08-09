@@ -115,10 +115,11 @@ Performed 18 business-focused SQL queries including:
 
 #  Related Project
 
-This analysis is extended into a machine learning project for
-predicting customer purchase intention.
+This project is extended into a Machine Learning project for predicting
+customer purchase intention.
 
-👉 Online-Shoppers-Purchase-Prediction-ML
+👉 [Online Shoppers Purchase Prediction – ML Project](https://github.com/komalkakkar1996-source/Online-Shoppers-Purchase-Prediction-ML)
+
 
 ---
 
