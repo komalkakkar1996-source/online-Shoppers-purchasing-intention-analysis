@@ -113,6 +113,15 @@ Performed 18 business-focused SQL queries including:
 
 ---
 
+#  Related Project
+
+This analysis is extended into a machine learning project for
+predicting customer purchase intention.
+
+👉 Online-Shoppers-Purchase-Prediction-ML
+
+---
+
 # Author
 
 Komal Kakkar
